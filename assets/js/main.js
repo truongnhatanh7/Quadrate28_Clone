@@ -16,7 +16,7 @@ body.onscroll = () => {
 
     } else {
         
-        navbarFloat.style.animation = 'flyOut 0.2s'
+        // navbarFloat.style.animation = 'flyOut 0.2s'
         navbarFloat.classList.remove('navbar-float')
     }
 }

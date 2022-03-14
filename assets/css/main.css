@@ -42,7 +42,7 @@ body {
     background-color: white;
     z-index: 1;
     opacity: 1 !important;
-    animation: flyIn 0.3s;
+    /* animation: flyIn 0.3s; */
 }
 
 @keyframes flyIn {
